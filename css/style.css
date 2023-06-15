@@ -93,3 +93,14 @@
     border-radius: 4px;
     cursor: pointer;
 }
+
+#clear{
+    background: var(--linear-gradient);
+    border: none;
+    padding: 10px;
+    color:#fff;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 4px;
+    cursor: pointer;
+}

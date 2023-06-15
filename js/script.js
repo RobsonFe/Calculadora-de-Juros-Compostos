@@ -7,3 +7,10 @@ document.getElementById('calculate').addEventListener('click', function(){
 
     document.getElementById('total').innerHTML = ("R$ " + total.toFixed(2).replace('.',','));
 })
+
+function limpar(){
+document.getElementById('value').value= '';
+document.getElementById('fee').value= '';
+document.getElementById('time').value= '';
+document.getElementById('total').innerHTML= 'R$ 0,00';
+}
