@@ -1,7 +1,5 @@
 # Iniciando Minhas Publicações: Explorando o Mundo do Desenvolvimento Web
 
-![Banner](link_para_sua_imagem_banner)
-
 ## Introdução
 
 Olá a todos! Estou animado(a) para iniciar minhas publicações aqui no GitHub e LinkedIn e compartilhar meus projetos e estudos. Este é o começo de uma jornada emocionante, e quero começar com o pé direito, apresentando um pequeno projeto de estudo em HTML, CSS e JavaScript.
