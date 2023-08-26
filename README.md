@@ -1,5 +1,8 @@
 # Iniciando Minhas Publicações: Explorando o Mundo do Desenvolvimento Web
 
+![Banner do Projeto](https://live.staticflickr.com/65535/53143736689_bf49faf7d1_b.jpg)
+
+
 ## Introdução
 
 Olá a todos! Estou animado(a) para iniciar minhas publicações aqui no GitHub e LinkedIn e compartilhar meus projetos e estudos. Este é o começo de uma jornada emocionante, e quero começar com o pé direito, apresentando um pequeno projeto de estudo em HTML, CSS e JavaScript.
@@ -24,9 +27,10 @@ O vídeo da Larissa Kich me proporcionou um guia sólido, mas meu projeto foi al
 
 Sinta-se à vontade para explorar os arquivos e pastas deste repositório para entender como criei este projeto de estudo. Você pode examinar o código, experimentar as funcionalidades e talvez até mesmo aplicar as lições aprendidas em seus próprios projetos.
 
-## Contribua
+## Video do Projeto
 
-Se você tiver sugestões para melhorias ou quiser compartilhar sua própria abordagem para o desenvolvimento web, fique à vontade para contribuir! Basta fazer um fork deste repositório, adicionar suas melhorias e enviar um pull request.
+[Assista ao vídeo do projeto](https://youtu.be/iwWSW_586AA)
+
 
 ## Contato
 
