@@ -35,5 +35,3 @@ Sinta-se à vontade para explorar os arquivos e pastas deste repositório para e
 ## Contato
 
 Estou ansioso(a) para trocar ideias, aprender com você e discutir o maravilhoso mundo do desenvolvimento web. Vamos nos conectar [aqui](https://www.linkedin.com/in/robson-ferreira-508247134/)!
-
-Espero que este repositório seja o primeiro passo de uma jornada incrível e que inspire você a explorar o desenvolvimento web de maneira criativa e envolvente. Juntos, podemos construir projetos espetaculares!
